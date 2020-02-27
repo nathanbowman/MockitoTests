@@ -1,0 +1,9 @@
+/mockito-extensions/
+/nate/
+
+.classpath
+*/.classpath
+.project
+*/.project
+.settings
+*/.settings
